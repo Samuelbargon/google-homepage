@@ -1,0 +1,78 @@
+.googleImg {
+    margin: auto; 
+    height: 92px;
+    text-align: center;
+    padding-top: 160px;
+    position: relative; 
+}
+
+.searchEng {
+    text-align: center;
+    position: relative;
+    margin: 30px;
+    border: transparent
+}
+
+.searchBar {
+    width: 540px;
+    height:44px;
+    margin: auto; 
+    border: 1px solid rgba(190, 186, 186, 0.856);
+    border-radius: 26px;
+    text-align: left;
+    position: relative; 
+    background-color: transparent;
+    font-family: arial,sans-serif;
+    font-size: 16px;
+    
+    
+}
+.searchBar:hover {
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+}  
+
+.buttons {
+    text-align: center;
+    position: relative;
+    margin: auto;
+    background-color: transparent;
+}
+
+.googleSearch {
+    height: 32px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid #f2f2f2;
+    margin: 10px;
+    background-color: #f2f2f2;;
+    color:#5F6368;
+    border-style: solid;
+    border-radius: 2px;
+    border-color:white ;
+    
+
+}
+.googleSearch:hover {
+    color: rgb(43, 43, 43);
+    border-color: rgba(65, 65, 65, 0.363);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}  
+
+.luckySearch{
+    height: 32px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid #f2f2f2;
+    margin: 10px;
+    background-color: #f2f2f2;;
+    color:#5F6368;
+    border-style: solid;
+    border-radius: 2px;
+    border-color:white ;
+    
+}
+.luckySearch:hover{
+    color: rgb(43, 43, 43);
+    border-color: rgba(65, 65, 65, 0.363);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
